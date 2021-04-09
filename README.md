@@ -3,13 +3,13 @@
 ### System-Wide Deployment
 
 ```sh
-curl -L https://raw.githubusercontent.com/fnichol/bashrc/master/contrib/install-system-wide | sudo bash
+curl -L https://raw.githubusercontent.com/msb111/bashrc/master/contrib/install-system-wide | sudo bash
 ```
 
 ### Local (User) Deployment
 
 ```sh
-curl -L https://raw.githubusercontent.com/fnichol/bashrc/master/contrib/install-local | bash
+curl -L https://raw.githubusercontent.com/msb111/bashrc/master/contrib/install-local | bash
 ```
 
 ### Delay Loading Your Local Deployment
